@@ -1,0 +1,169 @@
+SubID,aex,artInterest,LockDown_days,experience_visit_again,experience_meaning,experience_beautifulness,experience_goodness,condition,age,see_art,per_Ext,per_A,per_Ce,per_ES,per_OE,block,posMood,negMood,lone,STAI,SAT,wellbeing
+R_31je21pX9RLCwjs,Female,7,48,7,7,7,7,non_art,69,"Yes, I saw art",7,6.5,6,7,7,pre,5,3,2.5,2,7,6
+R_31je21pX9RLCwjs,Female,7,48,7,7,7,7,non_art,69,"Yes, I saw art",7,6.5,6,7,7,post,7,1,2,1.1666666666666667,7,5.75
+R_33wi8Y1zeHqMExY,Female,4,26,1,1,1,4,non_art,46,"Yes, I saw art",5.5,7,6,6,7,pre,5,1,2.8333333333333335,3.6666666666666665,4.2,4
+R_33wi8Y1zeHqMExY,Female,4,26,1,1,1,4,non_art,46,"Yes, I saw art",5.5,7,6,6,7,post,4,1,2.3333333333333335,4,4.4,4.5
+R_2SJLXPYWQBD9ynW,Female,5,35,4,6,6,7,art,32,"Yes, I saw art",2.5,4.5,6,3.5,3,pre,5,2,3,4.5,4.2,4.25
+R_2SJLXPYWQBD9ynW,Female,5,35,4,6,6,7,art,32,"Yes, I saw art",2.5,4.5,6,3.5,3,post,5,2,3.1666666666666665,3.5,3.8,4
+R_1hL6UZoxItymwzD,Female,6,20,7,4,5,4,art,26,"Yes, I saw art",4,3,6.5,6,4.5,pre,5,2,1.6666666666666667,2.5,4.2,3.75
+R_1hL6UZoxItymwzD,Female,6,20,7,4,5,4,art,26,"Yes, I saw art",4,3,6.5,6,4.5,post,6,2,2.8333333333333335,2.1666666666666665,5,4
+R_10xtThahxlvrWgm,Female,3,29,4,4,5,5,art,26,"Yes, I saw art",5.5,6,4,3.5,4.5,pre,3,4,4,4.333333333333333,3,3.25
+R_10xtThahxlvrWgm,Female,3,29,4,4,5,5,art,26,"Yes, I saw art",5.5,6,4,3.5,4.5,post,4,2,3.5,3,3.4,3.25
+R_1IPYaERXxgmP3FN,Female,4,30,2,2,4,4,non_art,25,"Yes, I saw art",3.5,5.5,5.5,3.5,3.5,pre,5,1,2.5,2.3333333333333335,3.6,5
+R_1IPYaERXxgmP3FN,Female,4,30,2,2,4,4,non_art,25,"Yes, I saw art",3.5,5.5,5.5,3.5,3.5,post,4,2,2.1666666666666665,3.3333333333333335,3.6,4.5
+R_cARfdAiMIWneENP,Male,6,43,4,3,6,7,art,23,"Yes, I saw art",4.5,6,4,4,6,pre,2,5,4,5,4.8,4.5
+R_cARfdAiMIWneENP,Male,6,43,4,3,6,7,art,23,"Yes, I saw art",4.5,6,4,4,6,post,4,5,3.8333333333333335,3.8333333333333335,4.8,4.5
+R_3rNWgJER9kS2Mwv,Female,7,34,3,5,4,5,art,28,"Yes, I saw art",7,4.5,3.5,2.5,6,pre,6,2,2.5,2.3333333333333335,6.2,6
+R_3rNWgJER9kS2Mwv,Female,7,34,3,5,4,5,art,28,"Yes, I saw art",7,4.5,3.5,2.5,6,post,6,2,2.3333333333333335,3.1666666666666665,6.4,5.25
+R_b31zIH9xILzLP9v,Female,7,30,3,2,1,1,non_art,28,"No, I experienced something else",5,6,5,5,6,pre,6,1,3,1.8333333333333333,5.6,6.25
+R_b31zIH9xILzLP9v,Female,7,30,3,2,1,1,non_art,28,"No, I experienced something else",5,6,5,5,6,post,6,1,3.1666666666666665,1.8333333333333333,5.6,6.25
+R_2pM5JVZaQMi6U1x,Female,7,35,1,2,4,6,non_art,63,"Yes, I saw art",5.5,6,6.5,6,6,pre,6,1,3.1666666666666665,1.6666666666666667,4.8,6.25
+R_2pM5JVZaQMi6U1x,Female,7,35,1,2,4,6,non_art,63,"Yes, I saw art",5.5,6,6.5,6,6,post,7,1,2.5,1.6666666666666667,5,6.25
+R_sXygftYL7fWUubf,Female,5,42,1,2,2,4,non_art,24,"Yes, I saw art",2.5,3,6.5,4,4.5,pre,5,3,3.6666666666666665,4.5,3,4.75
+R_sXygftYL7fWUubf,Female,5,42,1,2,2,4,non_art,24,"Yes, I saw art",2.5,3,6.5,4,4.5,post,5,3,3.6666666666666665,4.666666666666667,2.4,3.5
+R_1f7QEOVaMFOARNW,Female,7,42,6,5,7,7,art,59,"Yes, I saw art",5.5,5,6.5,4,6.5,pre,5,3,2.1666666666666665,5.666666666666667,5,6.25
+R_1f7QEOVaMFOARNW,Female,7,42,6,5,7,7,art,59,"Yes, I saw art",5.5,5,6.5,4,6.5,post,4,4,1.8333333333333333,3.1666666666666665,5.6,5
+R_1Q3q6YmYQzRZfA1,Female,4,50,6,4,6,6,non_art,30,"Yes, I saw art",2.5,4,5,3,4.5,pre,5,4,3.5,5.666666666666667,2.8,3.5
+R_1Q3q6YmYQzRZfA1,Female,4,50,6,4,6,6,non_art,30,"Yes, I saw art",2.5,4,5,3,4.5,post,5,3,3,2.8333333333333335,2.8,3.75
+R_2b0IB0t0GhXLKnb,Female,4,50,6,4,5,4,non_art,61,"Yes, I saw art",4.5,4,5,5,5.5,pre,6,1,3.1666666666666665,2.5,5,4.75
+R_2b0IB0t0GhXLKnb,Female,4,50,6,4,5,4,non_art,61,"Yes, I saw art",4.5,4,5,5,5.5,post,7,2,3.5,2.5,6,5
+R_2yr1siKdUO9xP4v,Female,5,40,5,5,7,7,art,33,"Yes, I saw art",3.5,4,6.5,4.5,4,pre,4,4,2.5,3.6666666666666665,6.2,4.75
+R_2yr1siKdUO9xP4v,Female,5,40,5,5,7,7,art,33,"Yes, I saw art",3.5,4,6.5,4.5,4,post,6,3,2.3333333333333335,3.3333333333333335,6.2,5.75
+R_0NXV1ckpTEotGZH,Female,4,52,5,6,6,5,non_art,61,"Yes, I saw art",5,7,6,6,5.5,pre,6,2,2.1666666666666665,1.5,6,4.5
+R_0NXV1ckpTEotGZH,Female,4,52,5,6,6,5,non_art,61,"Yes, I saw art",5,7,6,6,5.5,post,6,1,1.8333333333333333,1.5,6,6
+R_1pKB8PFuQFWfjBL,Male,6,50,4,5,5,5,non_art,31,"Yes, I saw art",5.5,5.5,5.5,6,6.5,pre,5,3,2.8333333333333335,3.3333333333333335,5.2,5
+R_1pKB8PFuQFWfjBL,Male,6,50,4,5,5,5,non_art,31,"Yes, I saw art",5.5,5.5,5.5,6,6.5,post,5,3,2.6666666666666665,2.5,5.2,4.75
+R_1ozjrn2YkZMGGte,Female,6,35,3,6,6,7,non_art,25,"Yes, I saw art",5.5,5.5,6,4,6,pre,5,2,4.166666666666667,3,4.4,4.25
+R_1ozjrn2YkZMGGte,Female,6,35,3,6,6,7,non_art,25,"Yes, I saw art",5.5,5.5,6,4,6,post,5,1,3.5,2.3333333333333335,4.8,5.25
+R_3R4mI2YydDjxazS,Female,7,32,4,5,5,5,non_art,25,"Yes, I saw art",6.5,5.5,4.5,4,5.5,pre,5,4,5.166666666666667,3.6666666666666665,5,4.5
+R_3R4mI2YydDjxazS,Female,7,32,4,5,5,5,non_art,25,"Yes, I saw art",6.5,5.5,4.5,4,5.5,post,5,3,3.3333333333333335,2,5.4,5.5
+R_3pkV9k0u2duE9nX,Female,6,40,3,5,5,4,non_art,24,"No, I experienced something else",5.5,5,7,4,6.5,pre,7,4,4,5.166666666666667,5,3
+R_3pkV9k0u2duE9nX,Female,6,40,3,5,5,4,non_art,24,"No, I experienced something else",5.5,5,7,4,6.5,post,5,2,3.5,3,4.8,2.5
+R_2sbfsYXfpZqvurz,Male,5,40,3,4,5,5,non_art,50,"Yes, I saw art",2.5,3.5,3,5,5,pre,4,2,4,3.5,3.8,4.25
+R_2sbfsYXfpZqvurz,Male,5,40,3,4,5,5,non_art,50,"Yes, I saw art",2.5,3.5,3,5,5,post,4,2,4.166666666666667,3.3333333333333335,3.4,4.25
+R_2s5N4cXatNxFEk9,Female,5,40,2,2,4,4,art,60,"Yes, I saw art",5.5,6,6.5,6,6,pre,6,1,2,2,4.2,4.75
+R_2s5N4cXatNxFEk9,Female,5,40,2,2,4,4,art,60,"Yes, I saw art",5.5,6,6.5,6,6,post,6,1,2.3333333333333335,1.6666666666666667,4,6
+R_2tn93C1BLjc4hEu,Female,6,48,2,5,6,7,art,42,"Yes, I saw art",3.5,2.5,7,2.5,6.5,pre,4,4,5,4,5.8,4.75
+R_2tn93C1BLjc4hEu,Female,6,48,2,5,6,7,art,42,"Yes, I saw art",3.5,2.5,7,2.5,6.5,post,3,5,4.333333333333333,4,5.8,4.5
+R_yVelrCF9JdEbQul,Female,4,45,1,1,1,4,non_art,28,"No, I experienced something else",5,4,2.5,5.5,7,pre,4,4,1.8333333333333333,2.5,6.2,6.5
+R_yVelrCF9JdEbQul,Female,4,45,1,1,1,4,non_art,28,"No, I experienced something else",5,4,2.5,5.5,7,post,7,1,1.5,1.3333333333333333,6.4,6.5
+R_31XCjgZ7iOBd18n,Female,6,40,6,4,6,5,art,43,"Yes, I saw art",3,6,6,6,6,pre,2,5,4.333333333333333,4.166666666666667,2.6,4.75
+R_31XCjgZ7iOBd18n,Female,6,40,6,4,6,5,art,43,"Yes, I saw art",3,6,6,6,6,post,4,2,4.666666666666667,3.6666666666666665,2.4,4
+R_a9Lm7MlhdxatbEZ,Female,7,30,5,6,6,6,non_art,24,"Yes, I saw art",7,6.5,6,7,6.5,pre,6,1,2.5,1.5,4.6,5.75
+R_a9Lm7MlhdxatbEZ,Female,7,30,5,6,6,6,non_art,24,"Yes, I saw art",7,6.5,6,7,6.5,post,6,1,2.3333333333333335,2.3333333333333335,4,6.25
+R_2ZP9AP4y7g2i8NH,Male,6,41,4,5,6,7,art,27,"Yes, I saw art",3,5.5,4,5.5,3.5,pre,5,3,3.6666666666666665,3.6666666666666665,3.8,4.25
+R_2ZP9AP4y7g2i8NH,Male,6,41,4,5,6,7,art,27,"Yes, I saw art",3,5.5,4,5.5,3.5,post,5,3,3.6666666666666665,3.1666666666666665,3.8,4
+R_pRA5JjKQYmcw8KJ,NA,6,40,3,6,5,5,non_art,27,"Yes, I saw art",3,5.5,4,4,5.5,pre,6,2,3.3333333333333335,3,4.6,3.75
+R_pRA5JjKQYmcw8KJ,NA,6,40,3,6,5,5,non_art,27,"Yes, I saw art",3,5.5,4,4,5.5,post,6,1,2.5,2.6666666666666665,4.8,5
+R_3Mh5bnyUaOHAWHt,Male,4,45,4,5,6,6,art,26,"Yes, I saw art",2.5,5,6,6,5.5,pre,6,2,2.3333333333333335,1.8333333333333333,5.6,5.25
+R_3Mh5bnyUaOHAWHt,Male,4,45,4,5,6,6,art,26,"Yes, I saw art",2.5,5,6,6,5.5,post,6,1,2.1666666666666665,1.8333333333333333,6,6.25
+R_2fCiZvxaTn6wKto,Female,7,44,4,7,7,7,art,40,"No, I experienced something else",2.5,7,6.5,4.5,5.5,pre,4,5,3.5,5,4.6,3.5
+R_2fCiZvxaTn6wKto,Female,7,44,4,7,7,7,art,40,"No, I experienced something else",2.5,7,6.5,4.5,5.5,post,5,4,3,2.5,4.8,4
+R_2q4Yc72N5AgkxrK,Male,7,60,7,7,7,7,art,30,"Yes, I saw art",2.5,5,6,6.5,6.5,pre,6,1,2.6666666666666665,2,4.8,5.75
+R_2q4Yc72N5AgkxrK,Male,7,60,7,7,7,7,art,30,"Yes, I saw art",2.5,5,6,6.5,6.5,post,6,1,2.3333333333333335,1.5,5,6
+R_2ZUIQDZuDFlulIi,Female,7,50,2,1,1,1,non_art,30,"No, I experienced something else",4,3.5,4,4.5,7,pre,4,5,4.166666666666667,4.166666666666667,4.6,3.5
+R_2ZUIQDZuDFlulIi,Female,7,50,2,1,1,1,non_art,30,"No, I experienced something else",4,3.5,4,4.5,7,post,4,5,4,4.166666666666667,4.6,4
+R_3MG9XkkZ01XM416,Male,5,42,1,3,4,5,art,64,"Yes, I saw art",4,2.5,4.5,3,6,pre,5,3,4,3.6666666666666665,4.6,3.75
+R_3MG9XkkZ01XM416,Male,5,42,1,3,4,5,art,64,"Yes, I saw art",4,2.5,4.5,3,6,post,5,3,3.8333333333333335,3.6666666666666665,4.8,4.25
+R_V4rsEy0iOfVkmqZ,Female,7,52,1,4,7,4,art,38,"Yes, I saw art",1.5,3,7,3.5,6,pre,4,4,4.166666666666667,3.8333333333333335,3.2,3.5
+R_V4rsEy0iOfVkmqZ,Female,7,52,1,4,7,4,art,38,"Yes, I saw art",1.5,3,7,3.5,6,post,4,4,4.166666666666667,3.3333333333333335,3.4,3.75
+R_3JmB2qoXA9slhUR,Male,7,50,2,4,5,5,non_art,72,"Yes, I saw art",3.5,5,7,4,7,pre,5,4,3.1666666666666665,2.1666666666666665,6.2,4
+R_3JmB2qoXA9slhUR,Male,7,50,2,4,5,5,non_art,72,"Yes, I saw art",3.5,5,7,4,7,post,5,3,3.6666666666666665,3.5,5.6,4.5
+R_2e4fCNc5LJSDXDy,Female,7,46,2,4,6,6,art,28,"Yes, I saw art",4,5.5,6,3.5,6.5,pre,4,4,2.8333333333333335,3.3333333333333335,5.6,4
+R_2e4fCNc5LJSDXDy,Female,7,46,2,4,6,6,art,28,"Yes, I saw art",4,5.5,6,3.5,6.5,post,5,3,2.5,2.6666666666666665,5.8,5
+R_1fftBjZdnd3Abyn,Other,7,43,4,4,2,4,non_art,30,"Yes, I saw art",4,4,5,2,6,pre,5,3,4.166666666666667,3.5,4.4,5
+R_1fftBjZdnd3Abyn,Other,7,43,4,4,2,4,non_art,30,"Yes, I saw art",4,4,5,2,6,post,4,3,4.166666666666667,3.8333333333333335,4.4,4.75
+R_2PdlJ548XJGQhgZ,Male,7,45,7,7,7,7,art,72,"Yes, I saw art",5,6,6,6,6.5,pre,4,5,4.333333333333333,3,2,3.75
+R_2PdlJ548XJGQhgZ,Male,7,45,7,7,7,7,art,72,"Yes, I saw art",5,6,6,6,6.5,post,3,4,4.833333333333333,3.5,2,3
+R_2QiByUAHwCduLnQ,Female,7,60,1,2,4,5,art,26,"Yes, I saw art",5.5,5,2.5,2,6,pre,5,2,5.333333333333333,3.5,3.2,1.75
+R_2QiByUAHwCduLnQ,Female,7,60,1,2,4,5,art,26,"Yes, I saw art",5.5,5,2.5,2,6,post,3,4,4.333333333333333,5,2.2,2.5
+R_xA8ohFZLYcX4J8Z,Female,7,58,2,1,1,6,art,37,"No, I experienced something else",3.5,4,5.5,4,6.5,pre,2,4,5,4.333333333333333,3.4,2.75
+R_xA8ohFZLYcX4J8Z,Female,7,58,2,1,1,6,art,37,"No, I experienced something else",3.5,4,5.5,4,6.5,post,4,5,4,4.166666666666667,3.4,4
+R_9ElvFRQPC7C2gA9,Female,7,54,1,1,1,1,non_art,43,"No, I experienced something else",2.5,5,7,2.5,5.5,pre,2,5,5,5.666666666666667,3.4,3.25
+R_9ElvFRQPC7C2gA9,Female,7,54,1,1,1,1,non_art,43,"No, I experienced something else",2.5,5,7,2.5,5.5,post,3,5,4.166666666666667,4.333333333333333,3.8,3.5
+R_3Do8KprLBr6Lnn5,Female,7,45,7,7,7,7,non_art,26,"No, I experienced something else",2,5,6,5,5,pre,5,4,4.333333333333333,3.1666666666666665,2.4,3
+R_3Do8KprLBr6Lnn5,Female,7,45,7,7,7,7,non_art,26,"No, I experienced something else",2,5,6,5,5,post,5,2,4.166666666666667,2.5,2.8,3.75
+R_2CCcWJY3ltI0ioX,Female,7,75,7,7,7,7,art,40,"Yes, I saw art",2,5.5,6.5,4,5.5,pre,4,4,4,4.833333333333333,5,3
+R_2CCcWJY3ltI0ioX,Female,7,75,7,7,7,7,art,40,"Yes, I saw art",2,5.5,6.5,4,5.5,post,5,3,4,3.6666666666666665,5.2,4.5
+R_3kMLOSEcxBaEtzA,Female,7,58,5,7,7,7,art,33,"Yes, I saw art",5.5,6.5,6,4,3.5,pre,2,5,3.3333333333333335,6,3.6,2.5
+R_3kMLOSEcxBaEtzA,Female,7,58,5,7,7,7,art,33,"Yes, I saw art",5.5,6.5,6,4,3.5,post,3,6,3,6.166666666666667,3.6,2.5
+R_3saEzjWEqf3FD0E,Female,6,64,6,5,5,6,art,56,"Yes, I saw art",3.5,3.5,3.5,3.5,5.5,pre,2,4,5,5.5,4.4,3
+R_3saEzjWEqf3FD0E,Female,6,64,6,5,5,6,art,56,"Yes, I saw art",3.5,3.5,3.5,3.5,5.5,post,5,3,4.333333333333333,2.8333333333333335,3.8,3.75
+R_1DAuv6nJxfGMZ5G,Female,7,60,3,1,1,1,non_art,29,"No, I experienced something else",3.5,5,5,3,7,pre,3,5,3.8333333333333335,3.8333333333333335,3.2,3.75
+R_1DAuv6nJxfGMZ5G,Female,7,60,3,1,1,1,non_art,29,"No, I experienced something else",3.5,5,5,3,7,post,4,6,4.5,3,4,3.25
+R_1rv1P1Af3KdAfkw,Female,7,40,4,5,3,3,art,27,"No, I experienced something else",3,4,4.5,3,6.5,pre,4,3,2.8333333333333335,2.8333333333333335,3.8,4
+R_1rv1P1Af3KdAfkw,Female,7,40,4,5,3,3,art,27,"No, I experienced something else",3,4,4.5,3,6.5,post,4,2,3.6666666666666665,3.1666666666666665,3.8,4.5
+R_2SH7W2tr2Z8zbqJ,Female,7,50,5,6,7,7,art,22,"Yes, I saw art",4,5.5,6,2.5,5.5,pre,5,2,2.1666666666666665,3.3333333333333335,6.8,4.75
+R_2SH7W2tr2Z8zbqJ,Female,7,50,5,6,7,7,art,22,"Yes, I saw art",4,5.5,6,2.5,5.5,post,5,2,2,1.6666666666666667,5.8,5
+R_8wzUPwCzdtKiLhD,Female,7,60,3,3,3,4,non_art,29,"Yes, I saw art",4.5,6,6.5,3.5,6,pre,1,5,3.1666666666666665,6.166666666666667,6.6,2.75
+R_8wzUPwCzdtKiLhD,Female,7,60,3,3,3,4,non_art,29,"Yes, I saw art",4.5,6,6.5,3.5,6,post,5,3,2.6666666666666665,5.166666666666667,6.2,3.5
+R_2tGceG7CFahsmtN,Female,7,65,7,7,7,7,art,24,"Yes, I saw art",5.5,4.5,7,2,7,pre,6,3,3.6666666666666665,3,6.4,5.5
+R_2tGceG7CFahsmtN,Female,7,65,7,7,7,7,art,24,"Yes, I saw art",5.5,4.5,7,2,7,post,6,2,3.6666666666666665,2.5,6.4,6
+R_b3JJNZM0iVDPap3,Female,7,70,1,3,3,4,non_art,48,"Yes, I saw art",1.5,4.5,6,4.5,6.5,pre,4,2,3.8333333333333335,4.666666666666667,5.6,3.5
+R_b3JJNZM0iVDPap3,Female,7,70,1,3,3,4,non_art,48,"Yes, I saw art",1.5,4.5,6,4.5,6.5,post,3,2,3.6666666666666665,3.3333333333333335,4.8,3.75
+R_z2LCV1FG9DLYtax,Female,7,68,2,5,2,2,non_art,33,"No, I experienced something else",2.5,5,5,4,6.5,pre,5,2,3.3333333333333335,3.5,4.8,5
+R_z2LCV1FG9DLYtax,Female,7,68,2,5,2,2,non_art,33,"No, I experienced something else",2.5,5,5,4,6.5,post,4,3,3.5,4,5,4.75
+R_3Gwf1aAtDANTMbJ,Female,7,60,3,5,4,4,non_art,25,"Yes, I saw art",4,5,4.5,6,5,pre,6,2,3,2.1666666666666665,4.2,5.25
+R_3Gwf1aAtDANTMbJ,Female,7,60,3,5,4,4,non_art,25,"Yes, I saw art",4,5,4.5,6,5,post,6,2,3,2.5,3.8,5.5
+R_3KW1VcneGFKPO3p,Female,7,48,1,3,5,4,non_art,72,"Yes, I saw art",6,6.5,7,3.5,6.5,pre,2,6,4.333333333333333,4,5.6,2.75
+R_3KW1VcneGFKPO3p,Female,7,48,1,3,5,4,non_art,72,"Yes, I saw art",6,6.5,7,3.5,6.5,post,5,2,4,3.5,5,3.25
+R_2CZm0rUbUQ7nuru,Female,7,48,7,2,2,7,non_art,23,"Yes, I saw art",4.5,4,4,1,6,pre,5,2,2.6666666666666665,2,5.8,5.25
+R_2CZm0rUbUQ7nuru,Female,7,48,7,2,2,7,non_art,23,"Yes, I saw art",4.5,4,4,1,6,post,6,1,2.3333333333333335,1.1666666666666667,6.4,5.75
+R_1DTEvDaFfx0YGbc,Female,7,38,2,5,5,6,non_art,32,"Yes, I saw art",5.5,5.5,5.5,3,7,pre,2,6,5.5,6.666666666666667,2.2,1.75
+R_1DTEvDaFfx0YGbc,Female,7,38,2,5,5,6,non_art,32,"Yes, I saw art",5.5,5.5,5.5,3,7,post,2,6,5,6.166666666666667,1,1.5
+R_3m3pKwBErp74c8i,Female,7,60,4,4,6,6,art,74,"Yes, I saw art",3.5,6.5,6.5,4.5,6,pre,6,2,1.5,3.5,6,5
+R_3m3pKwBErp74c8i,Female,7,60,4,4,6,6,art,74,"Yes, I saw art",3.5,6.5,6.5,4.5,6,post,NA,NA,1.5,3.1666666666666665,NA,NA
+R_3PZu2zkCm50xEsR,Female,7,40,3,4,5,5,art,23,"Yes, I saw art",3,5,4.5,4.5,6,pre,3,4,3,4,4,2.5
+R_3PZu2zkCm50xEsR,Female,7,40,3,4,5,5,art,23,"Yes, I saw art",3,5,4.5,4.5,6,post,4,3,2.8333333333333335,3.8333333333333335,4.6,3.25
+R_AjGe96Acq5eqfdv,Male,6,80,5,2,1,4,non_art,36,"Yes, I saw art",6,3.5,4,3,4.5,pre,3,2,3.3333333333333335,4.5,3.8,3.5
+R_AjGe96Acq5eqfdv,Male,6,80,5,2,1,4,non_art,36,"Yes, I saw art",6,3.5,4,3,4.5,post,3,2,3.8333333333333335,3.8333333333333335,2.8,3.75
+R_50jW94rW7TLC0o1,Female,5,72,6,5,6,6,non_art,27,"Yes, I saw art",4.5,4.5,6.5,5.5,5,pre,6,2,2.5,2.3333333333333335,6,5.25
+R_50jW94rW7TLC0o1,Female,5,72,6,5,6,6,non_art,27,"Yes, I saw art",4.5,4.5,6.5,5.5,5,post,6,2,2.3333333333333335,2.3333333333333335,6,5.75
+R_30ohhaVYgb4JYHL,Male,4,50,2,2,3,2,non_art,36,"No, I experienced something else",4,2,6,1.5,7,pre,6,2,4,3.8333333333333335,3.2,4.5
+R_30ohhaVYgb4JYHL,Male,4,50,2,2,3,2,non_art,36,"No, I experienced something else",4,2,6,1.5,7,post,5,2,4.166666666666667,4.5,1.6,4
+R_2v2sjhAKp2B0Qyh,Female,5,0,1,1,4,2,non_art,24,"No, I experienced something else",4.5,3.5,7,6,5.5,pre,5,3,1.6666666666666667,1.8333333333333333,6.2,5.25
+R_2v2sjhAKp2B0Qyh,Female,5,0,1,1,4,2,non_art,24,"No, I experienced something else",4.5,3.5,7,6,5.5,post,3,5,2,3.1666666666666665,6.2,6
+R_bwui8pNN4Zj2Vvb,Female,7,65,7,7,7,7,art,25,"Yes, I saw art",5.5,5.5,5.5,5.5,6,pre,5,2,3.6666666666666665,3.6666666666666665,4.2,5
+R_bwui8pNN4Zj2Vvb,Female,7,65,7,7,7,7,art,25,"Yes, I saw art",5.5,5.5,5.5,5.5,6,post,6,1,2.1666666666666665,3,4,5
+R_2bIw90AsLZSLuzN,Male,1,65,2,2,4,4,non_art,24,"Yes, I saw art",4.5,5,6,6,4,pre,6,1,3.1666666666666665,1.5,4.4,5
+R_2bIw90AsLZSLuzN,Male,1,65,2,2,4,4,non_art,24,"Yes, I saw art",4.5,5,6,6,4,post,6,1,2.8333333333333335,1.6666666666666667,4.4,5.75
+R_22K9u8sN6dkEu4g,Female,7,65,7,3,7,6,art,24,"Yes, I saw art",4,3.5,4,2,5.5,pre,1,5,6,5.833333333333333,1.8,3.25
+R_22K9u8sN6dkEu4g,Female,7,65,7,3,7,6,art,24,"Yes, I saw art",4,3.5,4,2,5.5,post,1,5,5.333333333333333,6.666666666666667,3,3
+R_bdwTPSYeWQO6kOl,Female,7,50,6,5,5,6,non_art,41,"Yes, I saw art",4,4.5,4,2.5,6,pre,6,3,3.1666666666666665,4.5,5,4.5
+R_bdwTPSYeWQO6kOl,Female,7,50,6,5,5,6,non_art,41,"Yes, I saw art",4,4.5,4,2.5,6,post,4,5,3.3333333333333335,5.166666666666667,4.6,3.5
+R_1pAnpS2VBsnPnrJ,Male,5,63,4,4,4,4,non_art,25,"Yes, I saw art",4,5,5,6,6,pre,5,2,3,2,3,4.25
+R_1pAnpS2VBsnPnrJ,Male,5,63,4,4,4,4,non_art,25,"Yes, I saw art",4,5,5,6,6,post,5,2,2.8333333333333335,2.1666666666666665,3,4.25
+R_1Dr73uSDmimMlr7,Female,7,50,5,7,7,5,art,30,"Yes, I saw art",4.5,4.5,3.5,5.5,5,pre,5,3,4.333333333333333,3.8333333333333335,5.6,5
+R_1Dr73uSDmimMlr7,Female,7,50,5,7,7,5,art,30,"Yes, I saw art",4.5,4.5,3.5,5.5,5,post,5,2,4.166666666666667,2.6666666666666665,4.8,4.5
+R_295qVgK8TAMDAwp,Male,6,60,5,4,6,6,non_art,22,"Yes, I saw art",6,3.5,3,3.5,5.5,pre,5,2,3.8333333333333335,3.1666666666666665,4,4.75
+R_295qVgK8TAMDAwp,Male,6,60,5,4,6,6,non_art,22,"Yes, I saw art",6,3.5,3,3.5,5.5,post,6,2,3.3333333333333335,2.6666666666666665,3,4.75
+R_5jbh3ZhuS8bP2MN,Male,5,55,2,6,7,7,art,23,"Yes, I saw art",5.5,4.5,4.5,6,7,pre,6,1,2,1.5,6.2,6.25
+R_5jbh3ZhuS8bP2MN,Male,5,55,2,6,7,7,art,23,"Yes, I saw art",5.5,4.5,4.5,6,7,post,6,1,2,1.6666666666666667,6.2,6.5
+R_2b3Q4UFTrCSowDp,Female,6,100,2,4,5,3,non_art,26,"Yes, I saw art",2,5,3.5,3.5,5.5,pre,3,6,4.666666666666667,4.833333333333333,3.2,2
+R_2b3Q4UFTrCSowDp,Female,6,100,2,4,5,3,non_art,26,"Yes, I saw art",2,5,3.5,3.5,5.5,post,2,6,4.666666666666667,5.5,3,2.5
+R_TorOQlcXQvdHrJ7,Female,2,49,3,5,6,6,non_art,24,"Yes, I saw art",3.5,5.5,6,6.5,5.5,pre,3,3,3.1666666666666665,3,4.8,5.75
+R_TorOQlcXQvdHrJ7,Female,2,49,3,5,6,6,non_art,24,"Yes, I saw art",3.5,5.5,6,6.5,5.5,post,4,2,3,2.6666666666666665,4.8,6
+R_12D4QRNBA1W5OqC,Female,6,21,4,5,4,4,non_art,23,"No, I experienced something else",4.5,4.5,5.5,4,5,pre,6,3,2.8333333333333335,2,5.8,5
+R_12D4QRNBA1W5OqC,Female,6,21,4,5,4,4,non_art,23,"No, I experienced something else",4.5,4.5,5.5,4,5,post,6,2,2.8333333333333335,2,5.6,5
+R_1GvTM0SzLEeFG0L,Female,7,74,5,4,5,2,non_art,26,"No, I experienced something else",6,3,6,2.5,7,pre,5,4,5.333333333333333,3.5,5.8,5
+R_1GvTM0SzLEeFG0L,Female,7,74,5,4,5,2,non_art,26,"No, I experienced something else",6,3,6,2.5,7,post,5,4,5.5,3.5,6.2,5
+R_3O2JsBpLm5YhTr3,Female,5,82,6,5,7,7,art,27,"Yes, I saw art",3,5.5,5,4,4.5,pre,4,3,4.166666666666667,4.5,3.8,3.5
+R_3O2JsBpLm5YhTr3,Female,5,82,6,5,7,7,art,27,"Yes, I saw art",3,5.5,5,4,4.5,post,5,3,3.6666666666666665,3.8333333333333335,3.8,3
+R_1dm3jtZkRIwWmwH,Female,7,45,1,3,2,2,non_art,27,"No, I experienced something else",2.5,3,6,2.5,6,pre,3,4,3.6666666666666665,4.166666666666667,4.2,2
+R_1dm3jtZkRIwWmwH,Female,7,45,1,3,2,2,non_art,27,"No, I experienced something else",2.5,3,6,2.5,6,post,6,3,3.6666666666666665,2.8333333333333335,3.8,5.25
+R_1LIlln9LLE0OhPL,Female,5,90,5,4,7,7,art,59,"Yes, I saw art",3,6,6,4.5,5,pre,5,1,2.5,2.1666666666666665,5.8,5.25
+R_1LIlln9LLE0OhPL,Female,5,90,5,4,7,7,art,59,"Yes, I saw art",3,6,6,4.5,5,post,6,1,2.6666666666666665,2,6.2,6
+R_32Jv5xHt7TLzqKk,Female,7,50,2,3,5,4,art,26,"Yes, I saw art",6,6,6,6,7,pre,5,3,1.8333333333333333,3.8333333333333335,6,5.75
+R_32Jv5xHt7TLzqKk,Female,7,50,2,3,5,4,art,26,"Yes, I saw art",6,6,6,6,7,post,4,3,1.8333333333333333,3.3333333333333335,6.6,6
+R_9AGwDcoKBRlj4Bj,Female,4,80,3,3,5,7,art,35,"Yes, I saw art",3,5.5,4,5,5,pre,5,3,3.1666666666666665,3.6666666666666665,4.8,5
+R_9AGwDcoKBRlj4Bj,Female,4,80,3,3,5,7,art,35,"Yes, I saw art",3,5.5,4,5,5,post,5,3,3.1666666666666665,3,5.2,5.5
+R_1f8HTaH4MuIbMks,Male,3,60,2,2,4,6,art,24,"Yes, I saw art",5.5,4.5,4,6,6,pre,5,2,4.666666666666667,3.5,3.4,4
+R_1f8HTaH4MuIbMks,Male,3,60,2,2,4,6,art,24,"Yes, I saw art",5.5,4.5,4,6,6,post,5,2,4.333333333333333,3.8333333333333335,3.2,4
+R_3pgzoQkBG7uZA8n,Female,3,65,2,2,2,4,art,25,"Yes, I saw art",3,6,6.5,2,4.5,pre,5,2,4.666666666666667,3.8333333333333335,4.4,5.5
+R_3pgzoQkBG7uZA8n,Female,3,65,2,2,2,4,art,25,"Yes, I saw art",3,6,6.5,2,4.5,post,4,4,NA,4.5,4.2,NA
+R_3PgAjSXtrw7vhXe,Female,6,75,3,4,4,3,non_art,21,"Yes, I saw art",4.5,4,6,3.5,7,pre,3,6,5.166666666666667,6.166666666666667,2.4,3.5
+R_3PgAjSXtrw7vhXe,Female,6,75,3,4,4,3,non_art,21,"Yes, I saw art",4.5,4,6,3.5,7,post,3,6,5.666666666666667,5.666666666666667,2.4,3
+R_2TOg2Wtn8eJp7pE,Male,3,30,2,4,5,6,art,33,"Yes, I saw art",6,6,6.5,6,6.5,pre,6,1,2.3333333333333335,1,6,6
+R_2TOg2Wtn8eJp7pE,Male,3,30,2,4,5,6,art,33,"Yes, I saw art",6,6,6.5,6,6.5,post,6,1,2.5,1.5,6,4.75
+R_1n9Of7GHnxdzU4M,Female,3,73,3,3,4,5,art,26,"Yes, I saw art",2.5,5,5.5,3,5.5,pre,3,4,3.6666666666666665,4.5,4.8,3.75
+R_1n9Of7GHnxdzU4M,Female,3,73,3,3,4,5,art,26,"Yes, I saw art",2.5,5,5.5,3,5.5,post,NA,NA,NA,4,NA,3.75
