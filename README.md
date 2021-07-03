@@ -1,8 +1,8 @@
-#Can a brief interaction with online, digital art improve wellbeing?
+# Can a brief interaction with online, digital art improve wellbeing?
 
-This repository contains the processed data and the code to replicate the analysis made in:
+This repository contains the processed data and the code to replicate the analysis made in: [Can a brief interaction with online, digital art improve wellbeing?](https://psyarxiv.com/93atj/)
  
-> Can a brief interaction with online, digital art improve wellbeing? A comparative study of the impact of online art and culture presentations on mood, state anxiety, subjective wellbeing, and loneliness (The citation and link to preprint will be posted here when available).
+> Trupp, m. D., Bignardi, G., Chana, K., Specker, E., & Pelowski, M. (2021, July 3). Can a brief interaction with online, digital art improve wellbeing?: A comparative study of the impact of online art and culture presentations on mood, state-anxiety, subjective wellbeing, and loneliness. https://doi.org/10.31234/osf.io/93atj
 
 ## Repository
 
@@ -16,9 +16,9 @@ The following directories contain:
 
 ## Materials
 
-The online cultural experiences can be found [here for the waterlillies](https://artsandculture.google.com/story/monet-the-water-lily-pond/WgIS72lKcegxJQ) and [here for the bento](https://artsandculture.google.com/story/vAVBze4XARcz7g) conditions.
+The online cultural experiences can be found [here for the water-lillies](https://artsandculture.google.com/story/monet-the-water-lily-pond/WgIS72lKcegxJQ) and [here for the bento](https://artsandculture.google.com/story/vAVBze4XARcz7g) conditions.
 
-## licence
+## License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
